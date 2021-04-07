@@ -100,7 +100,7 @@ View the following [document](https://github.com/jakhax/deploying-django-to-hero
 
 ## Author
 
-* **Charles Ndugire** - *Initial work* - [Nyota254](https://github.com/Nyota254)
+* **Charles Ndugire** - *Initial work* - [Charles-Ndugire](https://github.com/Charles-Ndugire)
 
 ## License
 
