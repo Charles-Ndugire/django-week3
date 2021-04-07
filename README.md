@@ -83,7 +83,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 Run the system test by typing the following commands
 ```
-python3.6 manage.py tests
+python3 manage.py tests
 ```
 
 ## Deployment
