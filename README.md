@@ -16,6 +16,9 @@ git clone
 * Python version 3.9
 * postgres database
 
+## Live Link
+[View Site](https://not-awwwards.herokuapp.com/)
+
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
