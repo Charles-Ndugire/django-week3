@@ -5,7 +5,7 @@ from .models import Profile
 
 class UserRegisterForm(UserCreationForm):
     '''
-    Adds more fields to user creation form
+    Adds more fields to  the user creation form.
     '''
     email = forms.EmailField()
 
