@@ -13,7 +13,7 @@ class ProjectTestClass(TestCase):
 
 class RatingTestClass(TestCase):
     def setUp(self):
-        self.user1 = User(username="kevin")
+        self.user1 = User(username="charles")
         self.user1.save()
         self.project1 = Project(title="master",description="master projo",link="https://master.com",image="master",user=self.user1)
         self.project1.save()
