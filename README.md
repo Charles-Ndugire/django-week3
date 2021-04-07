@@ -59,11 +59,11 @@ python3.6 manage.py makemigrations
 
 and migrate
 ```
-python3.6 manage.py migrate
+python3.9 manage.py migrate
 ```
 1. create a admin account
 ```
-python 3.6 manage.py createsuperuser
+python 3.9 manage.py createsuperuser
 ```
 and add your credentials
 
@@ -88,7 +88,7 @@ python3 manage.py tests
 
 ## Deployment
 
-View the following [document](https://github.com/jakhax/deploying-django-to-heroku-manual) inorder to deploy to a live system
+View the following [document](https://github.com/jakhax/deploying-django-to-heroku-manual) inorder to deploy to a live system to heroku
 
 ## Built With
 
