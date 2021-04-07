@@ -90,12 +90,14 @@ python3 manage.py tests
 
 View the following [document](https://github.com/jakhax/deploying-django-to-heroku-manual) inorder to deploy to a live system to heroku
 
-## Built With
+## Technologies used
 
 * [Django](https://www.djangoproject.com/download/) - The web framework used
 * [Bootstrap](https://getbootstrap.com) - The css toolkit used
 * Html
 * Python
+* Javascript
+* CSS
 
 
 ## Author
@@ -108,4 +110,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-Moringa School for guidance throughout the entire project
+The Moringa School for guidance throughout the entire project.
