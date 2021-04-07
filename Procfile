@@ -1,0 +1,1 @@
+web: gunicorn Awwwards_clone.wsgi --log-file -
