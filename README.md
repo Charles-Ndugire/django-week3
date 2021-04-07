@@ -17,7 +17,7 @@ git clone
 * postgres database
 
 ## Live Link
-[View Site](https://not-awwwards.herokuapp.com/)
+Click here to [Visit Site](https://not-awwwards.herokuapp.com/)
 
 ### Installing
 
